@@ -1,4 +1,5 @@
 # Material Theme (Dark) for Notepad++
+Forked to match my color preferences. Credits to [naderi](https://github.com/naderi/material-theme-for-npp)
 
 ![Material Theme Dark for Notepad++](https://raw.githubusercontent.com/naderi/material-theme-for-npp/master/material_theme_npp_screenshot.png)
 
